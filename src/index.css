@@ -1,0 +1,25 @@
+.location-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.label {
+  font-size: 22px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.location-input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  font-size: 16px;
+  outline: none;
+}
+
+.location-input:focus {
+  border-color: #2980b9;
+}

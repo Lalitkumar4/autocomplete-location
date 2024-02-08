@@ -1,5 +1,5 @@
 # Location Autocomplete
-This react app provides location autocomplete functionality using the Google Maps Places API.
+This Location Autocomplete input field provides real-time location autocomplete functionality as users type, using the Google Maps Places API.
 
 ## Usage
 You will need an API key and add it to a `.env` file
